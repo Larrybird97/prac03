@@ -3,34 +3,34 @@ package totaliserQuestion;
 /* DON'T LOOK AT THE CODE BELOW UNTIL AFTER COMPLETING YOUR TESTS! */
 
 /*
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
  */
 
 /**
@@ -53,7 +53,7 @@ public class Totaliser {
 	/**
 	 * Returns the sum of the numbers entered since the last
 	 * reset (or since construction).
-	 * 
+	 *
 	 * @return the sum of the numbers entered since resetting
 	 */
 	public int getSum() {
@@ -62,7 +62,7 @@ public class Totaliser {
 
 	/**
 	 * Adds the given new value to the sum of the numbers.
-	 * 
+	 *
 	 * @param newValue the new value to be added to the sum
 	 */
 	public void enterValue(int newValue) {
